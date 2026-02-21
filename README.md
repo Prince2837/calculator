@@ -5,18 +5,18 @@ This is a lightweight calculator web application developed using HTML, CSS, and 
 
 The project focuses on:
 
--Clean and responsive UI
--User-friendly design
--Accurate calculations
--Beginner-friendly code structure
+-Clean and responsive UI  <br>
+-User-friendly design     <br>
+-Accurate calculations    <br>
+-Beginner-friendly code structure   <br>
 
 This project helped me strengthen my understanding of DOM manipulation, event handling, and basic JavaScript logic.
 
 Features
 
- Addition
- Subtraction
- Multiplication
- Division
- Clear / Reset button
- Responsive layout
+ Addition   <br>
+ Subtraction  <br>
+ Multiplication  <br>
+ Division  <br>
+ Clear / Reset button  <br>
+ Responsive layout  <br>
